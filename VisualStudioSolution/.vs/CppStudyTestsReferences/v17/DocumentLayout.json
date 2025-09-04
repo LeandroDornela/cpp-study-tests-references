@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52D00900-1FB0-4C65-B76F-8065C1BDB756}|ConsoleBufferRender\\ConsoleBufferRender.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\ConsoleBufferRender\\ConsoleBufferRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52D00900-1FB0-4C65-B76F-8065C1BDB756}|ConsoleBufferRender\\ConsoleBufferRender.vcxproj|solutionrelative:ConsoleBufferRender\\ConsoleBufferRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|solutionrelative:Hello\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|solutionrelative:Hello\\ConsoleRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|solutionrelative:Hello\\ConsoleRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|solutionrelative:Hello\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C8F5C6-9A56-4EEC-A9BA-51A112C7CB95}|BasicGraphics\\BasicGraphics.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\BasicGraphics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87C8F5C6-9A56-4EEC-A9BA-51A112C7CB95}|BasicGraphics\\BasicGraphics.vcxproj|solutionrelative:BasicGraphics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleBufferRender.cpp",
+              "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\ConsoleBufferRender\\ConsoleBufferRender.cpp",
+              "RelativeDocumentMoniker": "ConsoleBufferRender\\ConsoleBufferRender.cpp",
+              "ToolTip": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\ConsoleBufferRender\\ConsoleBufferRender.cpp",
+              "RelativeToolTip": "ConsoleBufferRender\\ConsoleBufferRender.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T19:06:30.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleRenderer.h",
+              "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.h",
+              "RelativeDocumentMoniker": "Hello\\ConsoleRenderer.h",
+              "ToolTip": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.h",
+              "RelativeToolTip": "Hello\\ConsoleRenderer.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAADgv08AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-04T18:56:19.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\Log.cpp",
+              "RelativeDocumentMoniker": "Hello\\Log.cpp",
+              "ToolTip": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\Log.cpp",
+              "RelativeToolTip": "Hello\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T18:56:03.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\BasicGraphics\\main.cpp",
+              "RelativeDocumentMoniker": "BasicGraphics\\main.cpp",
+              "ToolTip": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\BasicGraphics\\main.cpp",
+              "RelativeToolTip": "BasicGraphics\\main.cpp",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T18:55:44.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleRenderer.cpp",
+              "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.cpp",
+              "RelativeDocumentMoniker": "Hello\\ConsoleRenderer.cpp",
+              "ToolTip": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.cpp",
+              "RelativeToolTip": "Hello\\ConsoleRenderer.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T18:50:56.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\src\\Main.cpp",
+              "RelativeDocumentMoniker": "Hello\\src\\Main.cpp",
+              "ToolTip": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\src\\Main.cpp",
+              "RelativeToolTip": "Hello\\src\\Main.cpp",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T18:50:52.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
