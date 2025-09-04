@@ -1,2 +1,0 @@
-Remove consele renderer from Cherno Hello
-Add OpenGL libs
