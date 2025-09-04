@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52D00900-1FB0-4C65-B76F-8065C1BDB756}|ConsoleBufferRender\\ConsoleBufferRender.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\ConsoleBufferRender\\ConsoleBufferRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{52D00900-1FB0-4C65-B76F-8065C1BDB756}|ConsoleBufferRender\\ConsoleBufferRender.vcxproj|solutionrelative:ConsoleBufferRender\\ConsoleBufferRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hello\\ConsoleRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,19 +35,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConsoleBufferRender.cpp",
-              "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\ConsoleBufferRender\\ConsoleBufferRender.cpp",
-              "RelativeDocumentMoniker": "ConsoleBufferRender\\ConsoleBufferRender.cpp",
-              "ToolTip": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\ConsoleBufferRender\\ConsoleBufferRender.cpp",
-              "RelativeToolTip": "ConsoleBufferRender\\ConsoleBufferRender.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-04T19:06:30.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ConsoleRenderer.h",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.h",
               "RelativeDocumentMoniker": "Hello\\ConsoleRenderer.h",
@@ -63,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Log.cpp",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\Log.cpp",
               "RelativeDocumentMoniker": "Hello\\Log.cpp",
@@ -75,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\BasicGraphics\\main.cpp",
               "RelativeDocumentMoniker": "BasicGraphics\\main.cpp",
@@ -87,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ConsoleRenderer.cpp",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.cpp",
               "RelativeDocumentMoniker": "Hello\\ConsoleRenderer.cpp",
@@ -99,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\src\\Main.cpp",
               "RelativeDocumentMoniker": "Hello\\src\\Main.cpp",
