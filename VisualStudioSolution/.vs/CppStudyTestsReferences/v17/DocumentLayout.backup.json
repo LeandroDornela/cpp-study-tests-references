@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{52D00900-1FB0-4C65-B76F-8065C1BDB756}|ConsoleBufferRender\\ConsoleBufferRender.vcxproj|solutionrelative:ConsoleBufferRender\\ConsoleBufferRender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|solutionrelative:Hello\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hello\\ConsoleRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|solutionrelative:Hello\\ConsoleRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hello\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|solutionrelative:Hello\\ConsoleRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\BasicGraphics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BasicGraphics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD4E6575-AE0E-4E7D-BB67-4553206F2D85}|Hello\\Hello.vcxproj|solutionrelative:Hello\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hello\\ConsoleRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C8F5C6-9A56-4EEC-A9BA-51A112C7CB95}|BasicGraphics\\BasicGraphics.vcxproj|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\BasicGraphics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{87C8F5C6-9A56-4EEC-A9BA-51A112C7CB95}|BasicGraphics\\BasicGraphics.vcxproj|solutionrelative:BasicGraphics\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hello\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ConsoleRenderer.h",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.h",
               "RelativeDocumentMoniker": "Hello\\ConsoleRenderer.h",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Log.cpp",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\Log.cpp",
               "RelativeDocumentMoniker": "Hello\\Log.cpp",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\BasicGraphics\\main.cpp",
               "RelativeDocumentMoniker": "BasicGraphics\\main.cpp",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ConsoleRenderer.cpp",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\ConsoleRenderer.cpp",
               "RelativeDocumentMoniker": "Hello\\ConsoleRenderer.cpp",
@@ -99,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\Projects\\cpp-study-tests-references\\VisualStudioSolution\\Hello\\src\\Main.cpp",
               "RelativeDocumentMoniker": "Hello\\src\\Main.cpp",
