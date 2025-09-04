@@ -1,2 +1,2 @@
-[ ] Remove console renderer from Cherno Hello
-[ ] Add OpenGL libs
+- [ ] Remove console renderer from Cherno Hello
+- [ ] Add OpenGL libs
